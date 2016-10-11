@@ -1,0 +1,5 @@
+Building WashingtonCoin
+
+Use qmake to compile WashingtonCoin-qt.pro, then use the generated Makefiles to build Windows client.
+
+Alternatively, you can use src/makefile-* to build daemon client (no QT-UI) for corresponding OS.
